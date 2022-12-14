@@ -31,7 +31,7 @@ export default function Weather() {
       </ul>
       <div className="row mt-3">
         <div className="col-6">
-          <div className="clearfix">
+          <div className="clearfix d-flex">
             <img
               src="https://ssl.gstatic.com/onebox/weather/64/cloudy.png"
               alt="Cloudy Icon"
